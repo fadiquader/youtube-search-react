@@ -1,0 +1,5 @@
+.app-content {
+  display: flex;
+  padding-top: 52px;
+  height: 100vh;
+}
